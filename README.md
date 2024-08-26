@@ -1,5 +1,6 @@
 # Airline Seat Reservation System - Group 24
 Done in partial fulfillment of the requirements of the In21-S3-CS3043 Database Systems module.
+NOTE: This is a fork of the [original repository](https://github.com/HansanaPrabashwara-210483T/In21-S3-CS3043---Database-Systems)
 
 <img src="/B_Airways/B_Airways - Homepage.jpg"/>
 
