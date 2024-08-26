@@ -16,7 +16,7 @@ The database design is at the core of the project, following best practices to e
 <hr/>
 <img src="/B_Airways/B_Airways - FAQ.jpg"/>
 <hr/>
-<img src="/B_Airways/G24 - Copy of ER.png"/>
+<img src="/B_Airways/G24 - Copy Of ER.png"/>
 
 ## Documentation
 The following are some documentation that were submitted for the project:
